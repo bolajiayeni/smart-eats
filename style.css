@@ -114,7 +114,8 @@ html, body {
   }
   
   #predictions .nutrition {
-    background: #EDF4E1;
+      background: transparent;
+    /*background: #EDF4E1;*/
     float: right;
   }
   
