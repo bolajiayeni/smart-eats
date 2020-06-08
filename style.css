@@ -3,7 +3,8 @@
 html, body {
     font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif;
     height: 100%;
-    background: #1f2933;
+    background: #EDF4E1;
+    /*background: #1f2933;*/
   }
   
   .wrapper {
