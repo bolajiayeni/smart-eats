@@ -7,7 +7,10 @@ html, body {
   }
   
   .wrapper {
-    background: #EDF4E1;
+    border-radius: 5px;
+    background: linear-gradient(145deg, #d5dccb, #fefff1);
+    box-shadow:  11px 11px 58px #dfe5d4, 
+             -11px -11px 58px #fbffef;
     border-radius: 5px;
     margin: 60px auto;
     padding: 30px;
